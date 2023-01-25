@@ -6,4 +6,4 @@ services:
       dockerfile: Dockerfile
     volumes:
       - "./app:/app"
-   
+    command: bash -c "npm test"
