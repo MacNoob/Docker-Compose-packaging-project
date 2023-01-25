@@ -2,7 +2,9 @@ services:
   app:
     build:
       context: .
-      dockerfile: docker-compose.yml
+      dockerfile: Dockerfile
+    volumes:
+      - "./app:/app"
     ports:
       - 8080:8080
     command: bash -c "npm run dev"
