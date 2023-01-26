@@ -35,6 +35,5 @@ make push   #Image publishing
 
 
 
-
 Link:
 - [Application Image](https://hub.docker.com/repository/docker/macnoob/devops-for-programmers-project-74/general)
