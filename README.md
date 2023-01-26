@@ -18,10 +18,15 @@ make ci     #Installing dependencies
 ```bash
 make start  #Application launch
 ```
-https://asciinema.org/a/hvlnej2dKNUKTBZjELDdkZoeI
+[![asciicast](https://asciinema.org/a/hvlnej2dKNUKTBZjELDdkZoeI.svg)](https://asciinema.org/a/hvlnej2dKNUKTBZjELDdkZoeI)
 
-
+```bash
 make build  #Building an image for publishing
+```
+<script id="asciicast-kjL328vmNd8O5ThEcgQLQuMtp" src="https://asciinema.org/a/kjL328vmNd8O5ThEcgQLQuMtp.js" async></script>
+
+
+
 make push   #Image publishing
 
 
