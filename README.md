@@ -23,7 +23,7 @@ make start  #Application launch
 ```bash
 make build  #Building an image for publishing
 ```
-<script id="asciicast-kjL328vmNd8O5ThEcgQLQuMtp" src="https://asciinema.org/a/kjL328vmNd8O5ThEcgQLQuMtp.js" async></script>
+<a href="https://asciinema.org/a/YCKBfec5yZMA5CLRTAO2EQFpi" target="_blank"><img src="https://asciinema.org/a/YCKBfec5yZMA5CLRTAO2EQFpi.svg" /></a>
 
 
 
