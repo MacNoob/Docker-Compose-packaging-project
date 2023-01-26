@@ -15,6 +15,9 @@ jobs:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
 
+      - name: Run Ci
+        run: make ci
+
       - name: Run test
         run: make test
 
