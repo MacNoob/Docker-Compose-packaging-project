@@ -26,8 +26,13 @@ make build  #Building an image for publishing
 [![asciicast](https://asciinema.org/a/kjL328vmNd8O5ThEcgQLQuMtp.svg)](https://asciinema.org/a/kjL328vmNd8O5ThEcgQLQuMtp)
 
 
-
+```bash
 make push   #Image publishing
+```
+
+[![asciicast](https://asciinema.org/a/2wZLxSgagmDxFb0bga21cyJft.svg)](https://asciinema.org/a/2wZLxSgagmDxFb0bga21cyJft)
+
+
 
 
 
