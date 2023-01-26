@@ -18,6 +18,9 @@ make ci     #Installing dependencies
 ```bash
 make start  #Application launch
 ```
+https://asciinema.org/a/hvlnej2dKNUKTBZjELDdkZoeI
+
+
 make build  #Building an image for publishing
 make push   #Image publishing
 
