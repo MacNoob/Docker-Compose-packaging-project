@@ -6,7 +6,7 @@
 
 ## System requirements
 - Docker, Docker Compose
-- NodeJS (for the developer)
+- NodeJS (for the developers)
 
 ## Usage
 
