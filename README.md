@@ -12,10 +12,15 @@
 
 ```bash
 make ci     #Installing dependencies
+```
+[![asciicast](https://asciinema.org/a/YCKBfec5yZMA5CLRTAO2EQFpi.svg)](https://asciinema.org/a/YCKBfec5yZMA5CLRTAO2EQFpi)
+
+```bash
 make start  #Application launch
+```
 make build  #Building an image for publishing
 make push   #Image publishing
-```
+
 
 
 Link:
