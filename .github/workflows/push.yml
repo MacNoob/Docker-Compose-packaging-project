@@ -18,9 +18,6 @@ jobs:
       - name: Run Ci
         run: make ci
 
-      - name: Run test
-        run: make test
-
       - name: Build image
         run: make build
 
